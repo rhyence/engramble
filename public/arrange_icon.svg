@@ -1,0 +1,14 @@
+<svg width="160" viewBox="0 0 160 160" xmlns="http://www.w3.org/2000/svg">
+  <title>Arrange mode icon</title>
+  <rect width="160" height="160" rx="28" fill="#1a1510"/>
+  <!-- Card 3 back (purple) -->
+  <rect x="28" y="42" width="64" height="80" rx="8" fill="#7b3fa0" transform="rotate(-12 60 82)"/>
+  <!-- Card 2 mid (green) -->
+  <rect x="38" y="38" width="64" height="80" rx="8" fill="#2d6a4f" transform="rotate(-4 70 78)"/>
+  <!-- Card 1 front (red) -->
+  <rect x="48" y="36" width="64" height="80" rx="8" fill="#c84b2f"/>
+  <!-- Number on front card -->
+  <text fill="#f5f0e8" font-family="'Fraunces',Georgia,serif" font-size="32" font-weight="900" text-anchor="middle" x="80" y="88">1</text>
+  <!-- Arrow right -->
+  <path d="M 122 78 L 146 78 M 138 70 L 146 78 L 138 86" fill="none" stroke="#f5f0e8" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,25 @@
+<svg width="120" viewBox="0 0 120 120" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Engramble loading animation</title>
+  <desc>Four coloured blocks pulsing in clockwise sequence</desc>
+
+  <!-- top-left red -->
+  <rect x="10" y="10" width="48" height="48" rx="8" fill="#c84b2f">
+    <animate attributeName="opacity" values="1;0.2;0.2;0.2;1" dur="1.2s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.25;0.5;0.75;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+  </rect>
+
+  <!-- top-right green -->
+  <rect x="62" y="10" width="48" height="48" rx="8" fill="#2d6a4f">
+    <animate attributeName="opacity" values="0.2;1;0.2;0.2;0.2" dur="1.2s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.25;0.5;0.75;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+  </rect>
+
+  <!-- bottom-right purple -->
+  <rect x="62" y="62" width="48" height="48" rx="8" fill="#7b3fa0">
+    <animate attributeName="opacity" values="0.2;0.2;1;0.2;0.2" dur="1.2s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.25;0.5;0.75;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+  </rect>
+
+  <!-- bottom-left blue -->
+  <rect x="10" y="62" width="48" height="48" rx="8" fill="#1a4a8a">
+    <animate attributeName="opacity" values="0.2;0.2;0.2;1;0.2" dur="1.2s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.25;0.5;0.75;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+  </rect>
+
+</svg>

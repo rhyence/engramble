@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Engramble</string>
+    <string name="title_activity_main">Engramble</string>
+    <string name="package_name">app.engramble.mobile</string>
+    <string name="custom_url_scheme">app.engramble.mobile</string>
+</resources>

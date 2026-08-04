@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+.env.local
+.vercel/
+*.log
+
+.vercel
+out/
+.superpowers/
+*.err
+supabase/.temp/
